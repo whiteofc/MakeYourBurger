@@ -86,7 +86,7 @@
         "Tomate",
         "Bacon"
       ],
-      "status": "solicitado",
+      "status": "Finalizado",
       "id": 1
     },
     {
@@ -108,7 +108,7 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
@@ -119,7 +119,7 @@
         "Bacon",
         "Salame"
       ],
-      "status": "solicitado",
+      "status": "Finalizado",
       "id": 6
     },
     {
@@ -131,6 +131,27 @@
       ],
       "status": "solicitado",
       "id": 7
+    },
+    {
+      "nome": "Joao",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 8
+    },
+    {
+      "nome": "Matheus",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 9
     }
   ]
 }
