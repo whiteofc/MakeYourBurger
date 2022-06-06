@@ -81,6 +81,7 @@ export default {
                 body: dataJson
             });
 
+            //colocar uma msg
             const res = await req.json();
 
             this.msg = `Pedido Nº ${res.id} realizado com sucesso`;

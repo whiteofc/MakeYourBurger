@@ -79,79 +79,12 @@
   ],
   "burgers": [
     {
-      "nome": "Teste",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Bacon"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
-      "nome": "White",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Bacon"
-      ],
-      "status": "solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Ana",
+      "nome": "Junior",
       "carne": "Picanha",
-      "pao": "Integral",
-      "opcionais": [
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Em produção",
-      "id": 5
-    },
-    {
-      "nome": "João",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Finalizado",
-      "id": 6
-    },
-    {
-      "nome": "Pedro",
-      "carne": "Veggie burger",
       "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "solicitado",
-      "id": 7
-    },
-    {
-      "nome": "Joao",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Em produção",
-      "id": 8
-    },
-    {
-      "nome": "Matheus",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Em produção",
-      "id": 9
+      "opcionais": [],
+      "status": "Finalizado",
+      "id": 2
     }
   ]
 }
