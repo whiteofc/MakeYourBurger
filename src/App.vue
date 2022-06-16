@@ -1,8 +1,12 @@
 <template>
-  <NavBar :logo="logo_src" :alt="app_name"/>
-  <router-view/>
-  <Footer />
-
+  <div class="container">
+      <NavBar :logo="logo_src" :alt="app_name"/>
+    <div class="footerApp">
+      <router-view/>
+      <Footer />
+    </div>
+  </div>
+  
 </template>
 
 <script>
@@ -42,6 +46,13 @@ export default {
     font-size: 42px;
     margin-bottom: 30px;
     color: #222;
+  }
+
+  .container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 
 </style>

@@ -115,7 +115,7 @@ export default {
 </script>
 
 <style scoped>
-  #burger-table {
+   #burger-table {
     max-width: 1200px;
     margin: 0 auto;
   }
